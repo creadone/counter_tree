@@ -1,6 +1,6 @@
 # CounterTree
 
-A sectioned hash table for storing counters that allow you to store values on a specific date and fetch as a sum or slice between two dates. This is part of the [Karma](https://github.com/karma)
+A sectioned hash table for storing counters that allow you to store values on a specific date and fetch as a sum or slice between two dates. This is part of the [Karma](https://github.com/creadone/karma)
 
 ## Installation
 
